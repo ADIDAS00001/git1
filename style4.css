@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ .a1{
+    width: 100%;
+    height: 900px;
+    background-image: url(/mini_programming-background-with-person-working-with-codes-on-computer.jpg);
+background-size: cover;
+background-position: center;
+}  
+.a2{
+    color: aqua;
+    padding: 100px;
+
+}
